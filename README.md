@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Fnzl54&fontSize=100)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnzl54)](https://github.com/fnzl54/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnzl54)](https://github.com/fnzl54/github-readme-stats)
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 <!--
 **fnzl54/fnzl54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
