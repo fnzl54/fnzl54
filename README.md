@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi
+## Hi!
 <!--  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Fnzl54&fontSize=50) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnzl54)](https://github.com/fnzl54/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnzl54)](https://github.com/fnzl54/github-readme-stats) -->
