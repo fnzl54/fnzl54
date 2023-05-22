@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi!
+## Hi
   
 <a href="https://chanyoung-kwon.notion.site/Development-Note-1c7bd78ac41d40eb9cf99485fdb09135"><img src="https://img.shields.io/badge/Note-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
