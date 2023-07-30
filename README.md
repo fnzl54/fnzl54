@@ -1,7 +1,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnzl54&layout=compact&hide=jupyter%20notebook&exclude_repo=jumpToDjango)](https://github.com/fnzl54/github-readme-stats) -->
 
 # Hi, I'm ChanYoung 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffnzl54&count_bg=%2334E6D0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Education
 
 - 강원대학교 컴퓨터공학과 / '20.03 ~
