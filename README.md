@@ -18,8 +18,11 @@
 
 ## Projects
 
-- [지역기반의 중고거래 서비스 클론 코딩](https://github.com/carrotTeam) / Backend, Dev / '22.04 ~
-- [AI를 통한 작물 병해 진단 서비스 Crop Doctor](https://github.com/S-V-23-BootCamp-Team-F) / Backend, AI, Dev / '22.12 ~ '23.02
+- [그래프 기반 독서 기록 서비스, CheckIT](https://github.com/2023-Team-Joon-CheckIt) / Backend, Dev / '22.09 ~
+- [AI를 통한 작물 병해 진단 서비스, Crop Doctor](https://github.com/S-V-23-BootCamp-Team-F) / Backend, AI, Dev / '22.12 ~ '23.02
+
+## Resume
+- https://chanyoung-kwon.notion.site/0d391dc7dbc6438bb99590050fc72481?pvs=4
 
 ## Study Note
 
