@@ -18,7 +18,7 @@
 
 ## Projects
 
-- [그래프 기반 독서 기록 서비스, CheckIT](https://github.com/2023-Team-Joon-CheckIt) / Backend, Dev / '22.09 ~
+- [그래프 기반 독서 기록 서비스, CheckIT](https://github.com/techeer-sv/Checkit) / Backend, Dev / '23.09 ~ '23.11
 - [AI를 통한 작물 병해 진단 서비스, Crop Doctor](https://github.com/S-V-23-BootCamp-Team-F) / Backend, AI, Dev / '22.12 ~ '23.02
 
 ## Resume
@@ -27,3 +27,5 @@
 ## Study Note
 
 - <a href="https://chanyoung-kwon.notion.site/Development-Note-1c7bd78ac41d40eb9cf99485fdb09135"><img src="https://img.shields.io/badge/Note-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjscksdud1)](https://solved.ac/rnjscksdud1/)
