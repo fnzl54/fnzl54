@@ -18,7 +18,8 @@
 
 ## Projects
 
-- [그래프 기반 독서 기록 서비스, CheckIT](https://github.com/techeer-sv/Checkit) / Backend, Dev / '23.09 ~ '23.11
+- [테커 내 중고거래를 위한 웹 플랫폼, Techeer Market](https://github.com/Techeer-market) / Backend, Dev / '24.01 ~ 'present
+- [그래프 기반 독서 기록 서비스, CheckIT](https://github.com/techeer-sv/Checkit) / Backend, Dev / '23.09 ~ '23.12
 - [AI를 통한 작물 병해 진단 서비스, Crop Doctor](https://github.com/S-V-23-BootCamp-Team-F) / Backend, AI, Dev / '22.12 ~ '23.02
 
 ## Resume
