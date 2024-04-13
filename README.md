@@ -4,12 +4,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffnzl54&count_bg=%2334E6D0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Education
 
-- 강원대학교 컴퓨터공학과 / '20.03 ~
+- 강원대학교 컴퓨터공학과 / '20.03 ~ 'present
 
 ## Activity
 
-- [Cloud Club 3기](https://cloudclub.oopy.io/) / 클라우드 연합동아리 / '23.03 ~
-- [Techeer 5기](https://github.com/techeer-sv) / 실리콘벨리 엔지니어의 SW개발자 커리어 동아리 / '23.03 ~
+- [Cloud Club 3기](https://cloudclub.oopy.io/) / 클라우드 연합동아리 / '23.03 ~ '23.12
+- [Techeer 5기](https://github.com/techeer-sv) / 실리콘벨리 엔지니어의 SW개발자 커리어 동아리 / '23.03 ~ 'present
 - CVMIP / 강원대학교 컴퓨터 비전 인공지능 연구실 학부 연구생 / '22.03 ~ '23.02
 
 ## Award
